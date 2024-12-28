@@ -39,15 +39,6 @@ I thrive in dynamic environments, focusing on innovative and scalable system sol
 
 ## 🌱 Currently Learning
 
-- Expanding knowledge in **AI** and **Machine Learning** to integrate intelligence into embedded systems.
+
 - Exploring new tools and frameworks for **IoT development** and **advanced communication protocols**.
 
-## 📬 Get in Touch
-
-Feel free to reach out to me through my GitHub profile or via email for collaboration, open-source contributions, or any other inquiries. I'm always looking for exciting projects and opportunities to collaborate with like-minded individuals.
-
-Let's build the future together! 🚀
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_
-icons=true&count_private=true&hide=prs&theme=dark)
