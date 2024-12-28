@@ -6,29 +6,35 @@ I thrive in dynamic environments, focusing on innovative and scalable system sol
 
 ## 🚀 Skills & Expertise
 
-- **Programming Languages**: 
-  ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat&logo=c&logoColor=white)
-  
-- **Embedded Systems**:
-  ![STM32](https://img.shields.io/badge/STM32-555555?style=flat&logo=STM32&logoColor=white) ![Beaglebone](https://img.shields.io/badge/Beaglebone%20Black-555555?style=flat&logo=beaglebone&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-555555?style=flat&logo=RISC-V&logoColor=white)
-  
-- **Operating Systems**:
-  ![Linux](https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555555?style=flat&logo=freertos&logoColor=white)
+- **Programming Languages**:  
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
-- **IoT Protocols**:
-  ![REST](https://img.shields.io/badge/REST-555555?style=flat&logo=rest&logoColor=white) ![CoAP](https://img.shields.io/badge/CoAP-555555?style=flat&logo=internet-explorer&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-555555?style=flat&logo=mqtt&logoColor=white)
+- **Embedded Systems**:  
+  ![STM32](https://img.shields.io/badge/STM32-%230081CB.svg?style=flat&logo=STM32&logoColor=white) ![Beaglebone](https://img.shields.io/badge/Beaglebone%20Black-%23F9DC3E.svg?style=flat&logo=beaglebone&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-%23008AFC.svg?style=flat&logo=RISC-V&logoColor=white)
 
-- **Communication Protocols**:
-  ![CAN](https://img.shields.io/badge/CAN-555555?style=flat&logo=arduino&logoColor=white) ![UART](https://img.shields.io/badge/UART-555555?style=flat&logo=arduino&logoColor=white) ![I2C](https://img.shields.io/badge/I2C-555555?style=flat&logo=arduino&logoColor=white) ![SPI](https://img.shields.io/badge/SPI-555555?style=flat&logo=arduino&logoColor=white)
+- **Operating Systems**:  
+  ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%230073CB.svg?style=flat&logo=freertos&logoColor=white)
 
-- **Development Tools**:
-  ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=white) ![Device Drivers](https://img.shields.io/badge/Device%20Drivers-555555?style=flat&logo=linux&logoColor=white)
+- **IoT Protocols**:  
+  ![REST](https://img.shields.io/badge/REST-%237C8AC9.svg?style=flat&logo=rest&logoColor=white) ![CoAP](https://img.shields.io/badge/CoAP-%23E34F26.svg?style=flat&logo=internet-explorer&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-%23FF6600.svg?style=flat&logo=mqtt&logoColor=white)
 
-- **Software Engineering**:
-  ![Algorithms](https://img.shields.io/badge/Algorithms-555555?style=flat&logo=python&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data%20Structures-555555?style=flat&logo=python&logoColor=white) ![Memory Management](https://img.shields.io/badge/Memory%20Management-555555?style=flat&logo=python&logoColor=white) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-555555?style=flat&logo=linux&logoColor=white)
+- **Communication Protocols**:  
+  ![CAN](https://img.shields.io/badge/CAN-%23008AFC.svg?style=flat&logo=arduino&logoColor=white) ![UART](https://img.shields.io/badge/UART-%23F24E1E.svg?style=flat&logo=arduino&logoColor=white)  
+  ![I2C](https://img.shields.io/badge/I2C-%2300D084.svg?style=flat&logo=arduino&logoColor=white) ![SPI](https://img.shields.io/badge/SPI-%23E34F26.svg?style=flat&logo=arduino&logoColor=white)
 
-- **Soft Skills**:
-  ![Interpersonal Skills](https://img.shields.io/badge/Interpersonal%20Skills-555555?style=flat&logo=linkedin&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-555555?style=flat&logo=git&logoColor=white) ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-555555?style=flat&logo=brain&logoColor=white) ![Teamwork](https://img.shields.io/badge/Teamwork-555555?style=flat&logo=teams&logoColor=white)
+- **Development Tools**:  
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Device Drivers](https://img.shields.io/badge/Device%20Drivers-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+
+- **Software Engineering**:  
+  ![Algorithms](https://img.shields.io/badge/Algorithms-%23007ACC.svg?style=flat&logo=python&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23007ACC.svg?style=flat&logo=python&logoColor=white)  
+  ![Memory Management](https://img.shields.io/badge/Memory%20Management-%23007ACC.svg?style=flat&logo=python&logoColor=white) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+
+- **Soft Skills**:  
+  ![Interpersonal Skills](https://img.shields.io/badge/Interpersonal%20Skills-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)  
+  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23F05032.svg?style=flat&logo=git&logoColor=white)  
+  ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-%23E34A5F.svg?style=flat&logo=brain&logoColor=white)  
+  ![Teamwork](https://img.shields.io/badge/Teamwork-%230075C4.svg?style=flat&logo=teams&logoColor=white)
 
 ## 🔧 Projects
 
@@ -39,6 +45,4 @@ I thrive in dynamic environments, focusing on innovative and scalable system sol
 
 ## 🌱 Currently Learning
 
-
 - Exploring new tools and frameworks for **IoT development** and **advanced communication protocols**.
-
